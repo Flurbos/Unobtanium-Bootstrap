@@ -2,6 +2,9 @@
 Construct a linear, no-fork, best version of the Unobtanium blockchain.
 Ported from bitcoin Linearize.
 
+**The files in this repo have been taken/edited from bitcoins linearize**  
+https://github.com/bitcoin/bitcoin/tree/master/contrib/linearize
+
 ## Step 1: Edit the .cfg
 Before you begin creating a new bootstrap.dat you should ensure to setup the linearize.cfg, 
 There is two example files available. The Blockbook example file is setup to practically run out 
